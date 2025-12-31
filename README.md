@@ -14,7 +14,7 @@ This project helped me strengthen my Java skills and understand API integration.
 <img width="1920" height="1080" alt="output2 png" src="https://github.com/user-attachments/assets/4b14a2b4-9a09-4279-b96d-1f0c50642ca6" />
 <img width="1920" height="1080" alt="output3 png" src="https://github.com/user-attachments/assets/fbe60886-2080-4091-b94a-b30edfb80d7e" />
 
-![Output1](output1.png)
+![Output1](output1.png.png)
 
 ## How to Run
 1. Clone this repository
